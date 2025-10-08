@@ -106,7 +106,7 @@ const Page = () => {
       {/* Navbar */}
       <div className="flex justify-between items-center">
         <a href='/' className="text-[1.93vw] md:text-2xl font-semibold">PassGen</a>
-        <a className="border border-zinc-700 hover:bg-gray-900 text-white px-4 py-2 rounded-lg" href="/">About Us</a>
+        <a className="border border-zinc-700 hover:bg-gray-900 text-white px-4 py-2 rounded-lg" href="https://www.anujbelsare.tech/">About Us</a>
       </div>
 
       {/* Generate & Save */}

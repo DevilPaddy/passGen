@@ -118,7 +118,7 @@ const VaultPage = () => {
                 {/* Navbar */}
                 <div className="w-full flex justify-between items-center">
                     <a href='/' className="text-[1.93vw] md:text-2xl font-semibold">PassGen</a>
-                    <a className="border border-zinc-700 hover:bg-gray-900 text-white px-4 py-2 rounded-lg" href="/">About Us</a>
+                    <a className="border border-zinc-700 hover:bg-gray-900 text-white px-4 py-2 rounded-lg" href="https://www.anujbelsare.tech/">About Us</a>
                 </div>
                 {/* Form to Add New Item */}
                 <div className='border-[0.8px] border-zinc-700 rounded-xl p-4 md:px-6 md:py-6 w-full max-w-2xl'>
